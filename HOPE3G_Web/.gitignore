@@ -1,0 +1,8 @@
+node_modules
+.eslintcache
+node_modules/.cache
+node_modules
+# ./env
+./DS_Store
+build/*
+
